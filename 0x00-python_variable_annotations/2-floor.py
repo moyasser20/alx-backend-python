@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-
-''' Basic annotations concat '''
+""" Basic annotations concat """
 
 import math
 
-def floor (n: float) -> int:
-    ''' Returns the floor of the float '''
+
+def floor(n: float) -> int:
+    """ Returns the floor of the float """
     return math.floor(n)
