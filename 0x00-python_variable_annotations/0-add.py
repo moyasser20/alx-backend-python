@@ -4,8 +4,9 @@
     Basic annotations for variables.
 '''
 
-def add(a:float , b:float) -> float:
+
+def add(a: float, b: float) -> float:
     '''
-        Add two floats and return a float.
+        Returns sum of two floats.
     '''
     return a + b
