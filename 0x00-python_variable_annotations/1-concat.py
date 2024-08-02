@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 
-'''
-    Basic annotations for variables.
-'''
+""" Basic annotations concat """
+
 
 def concat(str1: str, str2: str) -> str:
     """ Returns sum of two strings """
